@@ -8,7 +8,7 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>com.xerox</groupId>
 	<artifactId>spring-azure-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-azure-demo</name>
